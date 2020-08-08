@@ -5,7 +5,7 @@
 
 ### You can find me on
 
-📺 [Youtube](https://www.youtube.com/channel/UCHbWMt6KrLUwCexeiAFjUBg) <br>
+📺 [Youtube](https://www.youtube.com/WillianJustenCursos/?sub_confirmation=1) <br>
 🐦 [Twitter](https://twitter.com/Willian_justen) <br>
 📷 [Unsplash](https://unsplash.com/@willianjusten) <br>
 ⚛️ [My site](https://willianjusten.com.br) <br>
