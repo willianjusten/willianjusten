@@ -6,7 +6,7 @@
 ### You can find me on
 
 📺 [Youtube](https://www.youtube.com/channel/UCHbWMt6KrLUwCexeiAFjUBg) <br>
-🐦 [Twitter](https://twitter.com/davidsonfellipe) <br>
+🐦 [Twitter](https://twitter.com/Willian_justen) <br>
 📷 [Unsplash](https://unsplash.com/@willianjusten) <br>
 ⚛️ [My site](https://willianjusten.com.br) <br>
 
