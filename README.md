@@ -13,6 +13,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [NextJS, Gatsby ou Create React App? Entendendo os conceitos de SSR, SSG e SPA.](https://willianjusten.com.br/nextjs-gatsby-ou-create-react-app-entendendo-os-conceitos-de-ssr-ssg-e-spa/)
+- [Como criar e publicar um pacote de extensões do VSCode](https://willianjusten.com.br/como-criar-e-publicar-um-pacote-de-extensoes-do-vscode/)
+- [A história por trás do meu curso de React Avançado](https://willianjusten.com.br/a-historia-por-tras-do-meu-curso-de-react-avancado/)
+- [Introdução ao Strapi - Headless CMS](https://willianjusten.com.br/introducao-ao-strapi-headless-cms/)
+- [Mulheres na tecnologia](https://willianjusten.com.br/mulheres-na-tecnologia/)
 <!-- BLOG:END -->
 
 ### 📺 Latest Videos on YouTube
