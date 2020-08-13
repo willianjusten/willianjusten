@@ -23,9 +23,9 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Introdução a Testes - Prévia da Aula do curso React Avançado](https://www.youtube.com/watch?v=LgnMYNA4G-w)
 - [Mostrando últimos posts e vídeos no Github Profile](https://www.youtube.com/watch?v=tGYyamj4gTA)
 - [Mantendo projeto atualizado com Dependabot e Github Actions](https://www.youtube.com/watch?v=zV9yZZzZGpU)
 - [Verificando atualizações em um PWA com Gatsby](https://www.youtube.com/watch?v=QCE80tUQvUM)
 - [Prévia Módulo 2 - CMS Customizado e Scrapper de Dados](https://www.youtube.com/watch?v=fing31TXiyk)
-- [Strapi 3.1 - Níveis de permissões de usuário no CMS!](https://www.youtube.com/watch?v=v5yIZc6gkjM)
 <!-- YOUTUBE:END -->
