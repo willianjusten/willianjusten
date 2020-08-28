@@ -23,7 +23,7 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [Sorteio curso React Avançado, dúvidas e bate-papo =D](https://www.youtube.com/watch?v=BKiQirmCLeE)
+- [Sorteio do React Avançado, dúvidas e bate papo!](https://www.youtube.com/watch?v=vqpQqhGXkxg)
 - [Como organizo meus projetos com Github Projects](https://www.youtube.com/watch?v=k41GyWZ_JTQ)
 - [Prévia Módulo 3: Componentes, Storybook, muitos testes e SORTEIO!](https://www.youtube.com/watch?v=kQNITWYNVWU)
 - [Automatizando a criação de arquivos com Plop - React/Vue/Angular](https://www.youtube.com/watch?v=8siGinbhrUA)
