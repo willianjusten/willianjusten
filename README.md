@@ -23,9 +23,9 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Criando ação do Menu com React Hooks e TDD](https://www.youtube.com/watch?v=a5U0zSngbdg)
 - [Sorteio do React Avançado, dúvidas e bate papo!](https://www.youtube.com/watch?v=vqpQqhGXkxg)
 - [Como organizo meus projetos com Github Projects](https://www.youtube.com/watch?v=k41GyWZ_JTQ)
 - [Prévia Módulo 3: Componentes, Storybook, muitos testes e SORTEIO!](https://www.youtube.com/watch?v=kQNITWYNVWU)
 - [Automatizando a criação de arquivos com Plop - React/Vue/Angular](https://www.youtube.com/watch?v=8siGinbhrUA)
-- [Introdução a Testes - Prévia da Aula do curso React Avançado](https://www.youtube.com/watch?v=LgnMYNA4G-w)
 <!-- YOUTUBE:END -->
