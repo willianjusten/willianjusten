@@ -23,9 +23,9 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [TypeScript + React: Porque eu não uso o React.FC](https://www.youtube.com/watch?v=vK0ka9eTdA0)
 - [Como fazer seu site aparecer nas buscas do Google](https://www.youtube.com/watch?v=hMwRcamEVk8)
 - [Criando ação do Menu com React Hooks e TDD](https://www.youtube.com/watch?v=a5U0zSngbdg)
 - [Sorteio do React Avançado, dúvidas e bate papo!](https://www.youtube.com/watch?v=vqpQqhGXkxg)
 - [Como organizo meus projetos com Github Projects](https://www.youtube.com/watch?v=k41GyWZ_JTQ)
-- [Prévia Módulo 3: Componentes, Storybook, muitos testes e SORTEIO!](https://www.youtube.com/watch?v=kQNITWYNVWU)
 <!-- YOUTUBE:END -->
