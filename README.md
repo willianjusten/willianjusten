@@ -33,4 +33,7 @@
 ### 📷 Unsplash Stats
 
 <!-- UNSPLASH-STATS:START -->
+| **Views**         | **Downloads**        |
+|:-----------------:|:--------------------:|
+|425,562,653   | 2,074,733 |
 <!-- UNSPLASH-STATS:END -->
