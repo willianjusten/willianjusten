@@ -1,35 +1,28 @@
-name: Latest blog post workflow
 on:
   push:
   schedule:
-    # Runs every hour
     - cron: "0 * * * *"
 
 jobs:
-  update-readme-with-blog:
+  unsplash_stats_job:
     runs-on: ubuntu-latest
-    name: Update this repo's README with latest blog posts
+    name: Updates Unsplash stats and blog posts
 
     steps:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Gathering Blog Posts
+    # Collect and update markdown with Unsplash stats
+    - name: Gathering Unsplash stats
+      uses: gabrieluizramos/unsplash-stats-workflow@master
+      with:
+        username: willianjusten
+        ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
+        SECRET_KEY: ${{ secrets.SECRET_KEY }}
+        template: table
+
+    - name: Updating blog posts
       uses: gautamkrishnar/blog-post-workflow@master
       with:
         comment_tag_name: BLOG
         feed_list: "https://willianjusten.com.br/feed.xml"
-
-    - name: Gathering YouTube Videos
-      uses: gautamkrishnar/blog-post-workflow@master
-      with:
-        comment_tag_name: YOUTUBE
-        feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCa12brLWzCqnxN0KOyjfmJQ"
-
-    - name: Gathering Unsplash stats
-      uses: gabrieluizramos/unsplash-stats-workflow@master
-      with:
-        username: gabrieluizramos
-        ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
-        SECRET_KEY: ${{ secrets.SECRET_KEY }}
-        template: table
