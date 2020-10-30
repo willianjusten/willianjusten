@@ -23,11 +23,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Otimização de Images no NextJS 10](https://www.youtube.com/watch?v=xkkSiYitZbM)
 - [O hype é real - Lançamento do NextJS 10!](https://www.youtube.com/watch?v=8xTST9QBVGk)
 - [Melhorando o autocomplete do VsCode com const assertion do TypeScript](https://www.youtube.com/watch?v=SQEa0dfpOAM)
 - [Conversando sobre Testes](https://www.youtube.com/watch?v=LjxildwgR78)
 - [Atualizando dependências de forma interativa com Yarn](https://www.youtube.com/watch?v=tXS5-ueKi9U)
-- [Queries do React Testing Library + Dica Especial!](https://www.youtube.com/watch?v=5ptcfSEH7vw)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
