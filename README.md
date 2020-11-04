@@ -23,11 +23,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Se mantendo atualizando com o Github e mudanças no NextJS 10.0.1!](https://www.youtube.com/watch?v=ma-n5N8bESM)
 - [NextJS Commerce e o Medo do Open Source](https://www.youtube.com/watch?v=Js5z29ryWhw)
 - [Otimização de Images no NextJS 10](https://www.youtube.com/watch?v=xkkSiYitZbM)
 - [O hype é real - Lançamento do NextJS 10!](https://www.youtube.com/watch?v=8xTST9QBVGk)
 - [Melhorando o autocomplete do VsCode com const assertion do TypeScript](https://www.youtube.com/watch?v=SQEa0dfpOAM)
-- [Conversando sobre Testes](https://www.youtube.com/watch?v=LjxildwgR78)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
