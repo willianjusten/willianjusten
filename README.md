@@ -23,11 +23,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Black Friday antecipada React Avançado!](https://www.youtube.com/watch?v=I6egrxnPNpo)
 - [Overview do Curso React Avançado e Black Friday antecipada!!](https://www.youtube.com/watch?v=XbWbDxMOUQA)
 - [Se mantendo atualizado com o Github e mudanças no NextJS 10.0.1!](https://www.youtube.com/watch?v=ma-n5N8bESM)
 - [NextJS Commerce e o Medo do Open Source](https://www.youtube.com/watch?v=Js5z29ryWhw)
 - [Otimização de Images no NextJS 10](https://www.youtube.com/watch?v=xkkSiYitZbM)
-- [O hype é real - Lançamento do NextJS 10!](https://www.youtube.com/watch?v=8xTST9QBVGk)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
