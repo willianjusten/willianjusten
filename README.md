@@ -23,11 +23,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Unboxing da segunda caixa do GitHub Stars + Surpresa!](https://www.youtube.com/watch?v=vVp8atME0n8)
 - [Como funciona o programa do GitHub Stars?](https://www.youtube.com/watch?v=3qlmKllROI8)
 - [Unboxing do presente do GitHub Stars!](https://www.youtube.com/watch?v=QjjWI51dPKc)
 - [Black Friday antecipada React Avançado!](https://www.youtube.com/watch?v=I6egrxnPNpo)
 - [Overview do Curso React Avançado e Black Friday antecipada!!](https://www.youtube.com/watch?v=XbWbDxMOUQA)
-- [Se mantendo atualizado com o Github e mudanças no NextJS 10.0.1!](https://www.youtube.com/watch?v=ma-n5N8bESM)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
