@@ -23,11 +23,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Meu livro favorito de programação](https://www.youtube.com/watch?v=1eFbUVmzRMo)
 - [Unboxing da segunda caixa do GitHub Stars + Surpresa!](https://www.youtube.com/watch?v=vVp8atME0n8)
 - [Como funciona o programa do GitHub Stars?](https://www.youtube.com/watch?v=3qlmKllROI8)
 - [Unboxing do presente do GitHub Stars!](https://www.youtube.com/watch?v=QjjWI51dPKc)
 - [Black Friday antecipada React Avançado!](https://www.youtube.com/watch?v=I6egrxnPNpo)
-- [Overview do Curso React Avançado e Black Friday antecipada!!](https://www.youtube.com/watch?v=XbWbDxMOUQA)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
