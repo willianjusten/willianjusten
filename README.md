@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Comunicação assertiva: o que é e por que é tão importante?](https://www.youtube.com/watch?v=wRoE7MFvTAU)
 - [Fórum do Frontend Brasil, GitHub Discussions e GitHub Universe](https://www.youtube.com/watch?v=PxbG4y15uUM)
 - [Monitores, produtividade e minha preferência](https://www.youtube.com/watch?v=3yBOg0Hhmtw)
 - [Como faço para aprender com cursos em vídeo](https://www.youtube.com/watch?v=b_Czx1riyhw)
 - [Meu livro favorito de programação](https://www.youtube.com/watch?v=1eFbUVmzRMo)
-- [Unboxing da segunda caixa do GitHub Stars + Surpresa!](https://www.youtube.com/watch?v=vVp8atME0n8)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
