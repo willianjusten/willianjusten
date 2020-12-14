@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [GitHub Universe - Keynote, Dark Mode, Actions Workflow, Palestras e muito mais!](https://www.youtube.com/watch?v=uYax_6Fu1Xw)
 - [Comunicação assertiva: o que é e por que é tão importante?](https://www.youtube.com/watch?v=wRoE7MFvTAU)
 - [Fórum do Frontend Brasil, GitHub Discussions e GitHub Universe](https://www.youtube.com/watch?v=PxbG4y15uUM)
 - [Monitores, produtividade e minha preferência](https://www.youtube.com/watch?v=3yBOg0Hhmtw)
 - [Como faço para aprender com cursos em vídeo](https://www.youtube.com/watch?v=b_Czx1riyhw)
-- [Meu livro favorito de programação](https://www.youtube.com/watch?v=1eFbUVmzRMo)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
