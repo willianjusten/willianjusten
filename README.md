@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Será que sou bom o suficiente? Síndrome do impostor, ansiedade, depressão e mais...](https://www.youtube.com/watch?v=2g181ibXzEM)
 - [GitHub Universe - Keynote, Dark Mode, Actions Workflow, Palestras e muito mais!](https://www.youtube.com/watch?v=uYax_6Fu1Xw)
 - [Comunicação assertiva: o que é e por que é tão importante?](https://www.youtube.com/watch?v=wRoE7MFvTAU)
 - [Fórum do Frontend Brasil, GitHub Discussions e GitHub Universe](https://www.youtube.com/watch?v=PxbG4y15uUM)
 - [Monitores, produtividade e minha preferência](https://www.youtube.com/watch?v=3yBOg0Hhmtw)
-- [Como faço para aprender com cursos em vídeo](https://www.youtube.com/watch?v=b_Czx1riyhw)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
