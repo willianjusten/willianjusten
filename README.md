@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Dicas para definir metas 2021](https://www.youtube.com/watch?v=NmYgorIVVE8)
 - [Sorteio cursos pela FrontendBR!](https://www.youtube.com/watch?v=wEK5X7TpK1E)
 - [Será que sou bom o suficiente? Síndrome do impostor, ansiedade, depressão e mais...](https://www.youtube.com/watch?v=2g181ibXzEM)
 - [GitHub Universe - Keynote, Dark Mode, Actions Workflow, Palestras e muito mais!](https://www.youtube.com/watch?v=uYax_6Fu1Xw)
 - [Comunicação assertiva: o que é e por que é tão importante?](https://www.youtube.com/watch?v=wRoE7MFvTAU)
-- [Fórum do Frontend Brasil, GitHub Discussions e GitHub Universe](https://www.youtube.com/watch?v=PxbG4y15uUM)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
