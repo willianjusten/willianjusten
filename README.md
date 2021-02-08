@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [React Avançado - Página de Listagem de Produtos e Filtros com SSR e Client-side](https://www.youtube.com/watch?v=L_OLlnrSqBw)
 - [Optional Chaining do JavaScript](https://www.youtube.com/watch?v=yu0MHb8AZ90)
 - [Prévia Curso React Avançado - Introdução ao GraphQL](https://www.youtube.com/watch?v=CuproLFPUFk)
 - [Andamento do curso React Avançado](https://www.youtube.com/watch?v=FeB3zuWvJtE)
 - [Dicas para definir metas 2021](https://www.youtube.com/watch?v=NmYgorIVVE8)
-- [Sorteio cursos pela FrontendBR!](https://www.youtube.com/watch?v=wEK5X7TpK1E)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
