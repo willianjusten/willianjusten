@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Criando imagens bonitas de código](https://www.youtube.com/watch?v=ZJpeMczm-s0)
 - [Debugando e agilizando testes na React Testing Library](https://www.youtube.com/watch?v=lRIgpW9MiVI)
 - [Desafio: várias dicas todos os dias!](https://www.youtube.com/watch?v=1dNNL95BsJE)
 - [React Avançado - Página de Listagem de Produtos e Filtros com SSR e Client-side](https://www.youtube.com/watch?v=L_OLlnrSqBw)
 - [Optional Chaining do JavaScript](https://www.youtube.com/watch?v=yu0MHb8AZ90)
-- [Prévia Curso React Avançado - Introdução ao GraphQL](https://www.youtube.com/watch?v=CuproLFPUFk)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
