@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Removendo duplicatas de um array com Set](https://www.youtube.com/watch?v=JxkQGHMuZQw)
 - [Juntando arrays e objetos com spread syntax](https://www.youtube.com/watch?v=1Y8h-R-uymM)
 - [Formatando datas com JS puro](https://www.youtube.com/watch?v=2EAs2BH3Y_4)
 - [Formatando número em dinheiro com JS puro](https://www.youtube.com/watch?v=eOMnHsVm6vE)
 - [Criando imagens bonitas de código](https://www.youtube.com/watch?v=ZJpeMczm-s0)
-- [Debugando e agilizando testes na React Testing Library](https://www.youtube.com/watch?v=lRIgpW9MiVI)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
