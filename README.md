@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Fazendo o browser falar por você - Projeto Japanese Words](https://www.youtube.com/watch?v=SOgN69e9-Uc)
 - [Retornando múltiplos valores numa função e usando destructuring no JavaScript](https://www.youtube.com/watch?v=R1MzzVswwFw)
 - [Removendo duplicatas de um array com Set no JavaScript](https://www.youtube.com/watch?v=JxkQGHMuZQw)
 - [Juntando arrays e objetos com spread syntax no JavaScript](https://www.youtube.com/watch?v=1Y8h-R-uymM)
 - [Formatando datas com JS puro](https://www.youtube.com/watch?v=2EAs2BH3Y_4)
-- [Formatando número em dinheiro com JS puro](https://www.youtube.com/watch?v=eOMnHsVm6vE)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
