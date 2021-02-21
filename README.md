@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Justando arrays e objetos com Spread syntax no JavaScript](https://willianjusten.com.br/justando-arrays-e-objetos-com-spread-syntax-no-javascript/)
 - [Formatando datas com JS puro](https://willianjusten.com.br/formatando-datas-com-js-puro/)
 - [Formatando número em dinheiro com JS puro](https://willianjusten.com.br/formatando-numero-em-dinheiro-com-js-puro/)
 - [Criando imagens bonitas de código](https://willianjusten.com.br/criando-imagens-bonitas-de-codigo/)
 - [Debugando e agilizando testes na React Testing Library](https://willianjusten.com.br/debugando-e-agilizando-testes-na-react-testing-library/)
-- [Meu ano de 2020](https://willianjusten.com.br/meu-ano-de-2020/)
 <!-- BLOG:END -->
 
 ### 📺 Latest Videos on YouTube
