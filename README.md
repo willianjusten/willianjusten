@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Como criar um Pull Request (PR) no GitHub](https://www.youtube.com/watch?v=U-Y_Mtdyo74)
 - [Adicionando ícone de GitHub nos projetos opensource](https://www.youtube.com/watch?v=H5XBjyoU1E0)
 - [Fazendo o browser falar por você - Projeto Japanese Words](https://www.youtube.com/watch?v=SOgN69e9-Uc)
 - [Retornando múltiplos valores numa função e usando destructuring no JavaScript](https://www.youtube.com/watch?v=R1MzzVswwFw)
 - [Removendo duplicatas de um array com Set no JavaScript](https://www.youtube.com/watch?v=JxkQGHMuZQw)
-- [Juntando arrays e objetos com spread syntax no JavaScript](https://www.youtube.com/watch?v=1Y8h-R-uymM)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
