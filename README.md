@@ -16,9 +16,9 @@
 <!-- BLOG:START -->
 - [Adicionando ícone de GitHub nos projetos opensource](https://willianjusten.com.br/adicionando-icone-de-github-nos-projetos-opensource/)
 - [Fazendo o browser falar por você - Web Speech API](https://willianjusten.com.br/fazendo-o-browser-falar-por-voce-web-speech-api/)
+- [Juntando arrays e objetos com Spread syntax no JavaScript](https://willianjusten.com.br/juntando-arrays-e-objetos-com-spread-syntax-no-javascript/)
 - [Justando arrays e objetos com Spread syntax no JavaScript](https://willianjusten.com.br/justando-arrays-e-objetos-com-spread-syntax-no-javascript/)
 - [Formatando datas com JS puro](https://willianjusten.com.br/formatando-datas-com-js-puro/)
-- [Formatando número em dinheiro com JS puro](https://willianjusten.com.br/formatando-numero-em-dinheiro-com-js-puro/)
 <!-- BLOG:END -->
 
 ### 📺 Latest Videos on YouTube
