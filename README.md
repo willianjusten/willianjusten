@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Criando toda a estrutura de um site usando o Strapi CMS](https://willianjusten.com.br/criando-toda-a-estrutura-de-um-site-usando-o-strapi-cms/)
 - [Como configuro meu editor e desktop para gravar código](https://willianjusten.com.br/como-configuro-meu-editor-e-desktop-para-gravar-codigo/)
 - [Como deixar a imagem da webcam redonda no OBS](https://willianjusten.com.br/como-deixar-a-imagem-da-webcam-redonda-no-obs/)
 - [Criando componente de Tipografia com styled-components](https://willianjusten.com.br/criando-componente-de-tipografia-com-styled-components/)
 - [Adicionando ícone de GitHub nos projetos opensource](https://willianjusten.com.br/adicionando-icone-de-github-nos-projetos-opensource/)
-- [Fazendo o browser falar por você - Web Speech API](https://willianjusten.com.br/fazendo-o-browser-falar-por-voce-web-speech-api/)
 <!-- BLOG:END -->
 
 ### 📺 Latest Videos on YouTube
