@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Como configuro meu editor e desktop para gravar código](https://willianjusten.com.br/como-configuro-meu-editor-e-desktop-para-gravar-codigo/)
+- [Como deixar a imagem da webcam redonda no OBS](https://willianjusten.com.br/como-deixar-a-imagem-da-webcam-redonda-no-obs/)
+- [Criando componente de Tipografia com styled-components](https://willianjusten.com.br/criando-componente-de-tipografia-com-styled-components/)
 - [Adicionando ícone de GitHub nos projetos opensource](https://willianjusten.com.br/adicionando-icone-de-github-nos-projetos-opensource/)
 - [Fazendo o browser falar por você - Web Speech API](https://willianjusten.com.br/fazendo-o-browser-falar-por-voce-web-speech-api/)
-- [Juntando arrays e objetos com Spread syntax no JavaScript](https://willianjusten.com.br/juntando-arrays-e-objetos-com-spread-syntax-no-javascript/)
-- [Justando arrays e objetos com Spread syntax no JavaScript](https://willianjusten.com.br/justando-arrays-e-objetos-com-spread-syntax-no-javascript/)
-- [Formatando datas com JS puro](https://willianjusten.com.br/formatando-datas-com-js-puro/)
 <!-- BLOG:END -->
 
 ### 📺 Latest Videos on YouTube
