@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Review: Teclado Mecânico Keychron K6! Vale a pena?](https://www.youtube.com/watch?v=EDJYvn48MV0)
 - [Teoria e Prática para os Fluxos do NextJS](https://www.youtube.com/watch?v=pIyYndiXLpU)
 - [Perguntas/Respostas e Lançamento! - Curso NextJS na Prática!](https://www.youtube.com/watch?v=vVlwpkpXufY)
 - [Novo Curso: NextJS, GraphQL e Leaflet na prática!](https://www.youtube.com/watch?v=NgjEAoAto5M)
 - [Criando toda a estrutura de um site usando o Strapi CMS](https://www.youtube.com/watch?v=VWuTUd0dRCM)
-- [Como configuro meu editor e desktop para gravar código](https://www.youtube.com/watch?v=Ed6ym3TthsE)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
