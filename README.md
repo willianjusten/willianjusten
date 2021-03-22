@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Semana React Avançado - Fechando Dropdown ao clicar fora + testes!](https://www.youtube.com/watch?v=wgFMoBu3zpU)
 - [Criando um layout responsivo com CSS Grid e Object-fit](https://www.youtube.com/watch?v=Y9uat94abxU)
 - [Review: Teclado Mecânico Keychron K6! Vale a pena?](https://www.youtube.com/watch?v=EDJYvn48MV0)
 - [Teoria e Prática para os Fluxos do NextJS](https://www.youtube.com/watch?v=pIyYndiXLpU)
 - [Perguntas/Respostas e Lançamento! - Curso NextJS na Prática!](https://www.youtube.com/watch?v=vVlwpkpXufY)
-- [Novo Curso: NextJS, GraphQL e Leaflet na prática!](https://www.youtube.com/watch?v=NgjEAoAto5M)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
