@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Semana React Avançado - Simplicando GraphQL com Fragments](https://www.youtube.com/watch?v=0wJWD0TskJs)
 - [Semana React Avançado - Utilizando filters e aliases no GraphQL com Strapi](https://www.youtube.com/watch?v=xkm_ZOKtpms)
 - [Semana React Avançado - Entendendo mais sobre Context API e State Management](https://www.youtube.com/watch?v=BRJ5vV-rwUM)
 - [Semana React Avançado - Fechando Dropdown ao clicar fora + testes!](https://www.youtube.com/watch?v=wgFMoBu3zpU)
 - [Criando um layout responsivo com CSS Grid e Object-fit](https://www.youtube.com/watch?v=Y9uat94abxU)
-- [Review: Teclado Mecânico Keychron K6! Vale a pena?](https://www.youtube.com/watch?v=EDJYvn48MV0)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
