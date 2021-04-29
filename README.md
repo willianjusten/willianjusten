@@ -24,11 +24,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Bate papo sobre o React Avançado, carreira e mais!](https://www.youtube.com/watch?v=0xorZCicpIU)
 - [Melhorando a performance do Jest com 1 linha - NÃO É CLICK-BAIT](https://www.youtube.com/watch?v=9Tes2yM2EdY)
 - [Demo do Projeto Won Games - Curso React Avançado](https://www.youtube.com/watch?v=4sx0EwAMl7U)
 - [Unboxing Prêmio GitHub Stars](https://www.youtube.com/watch?v=uG0sI7Cdxl0)
 - [Como usar e se comportar melhor em Chats (Slack, Discord, etc)](https://www.youtube.com/watch?v=KBJiXB48lrE)
-- [Semana React Avançado - Testando estilos com Jest-styled-components](https://www.youtube.com/watch?v=u-7xfNScfUk)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
