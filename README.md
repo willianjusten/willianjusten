@@ -25,11 +25,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Windows 11 - Como instalar? O que mudou? Minhas primeiras impressões](https://www.youtube.com/watch?v=9OEyNgKwMzs)
 - [Novo Curso: Aprenda Testes End to End com Cypress na Prática](https://www.youtube.com/watch?v=ePXUbsbBjLY)
 - [React Avançado: Introdução a Testes E2E - Cypress](https://www.youtube.com/watch?v=Q65giR7gJ_Y)
 - [Bate papo sobre o React Avançado, carreira e mais!](https://www.youtube.com/watch?v=0xorZCicpIU)
 - [Melhorando a performance do Jest com 1 linha - NÃO É CLICK-BAIT](https://www.youtube.com/watch?v=9Tes2yM2EdY)
-- [Demo do Projeto Won Games - Curso React Avançado](https://www.youtube.com/watch?v=4sx0EwAMl7U)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
