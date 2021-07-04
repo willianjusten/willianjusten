@@ -15,11 +15,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Como ter um Blog ajuda a conseguir melhores oportunidades](https://willianjusten.com.br/como-ter-um-blog-ajuda-a-conseguir-oportunidades/)
-- [Como usar e se comportar melhor em chats](https://willianjusten.com.br/como-usar-e-se-comportar-melhor-em-chats/)
-- [Criando toda a estrutura de um site usando o Strapi CMS](https://willianjusten.com.br/criando-toda-a-estrutura-de-um-site-usando-o-strapi-cms/)
-- [Como configuro meu editor e desktop para gravar código](https://willianjusten.com.br/como-configuro-meu-editor-e-desktop-para-gravar-codigo/)
-- [Como deixar a imagem da webcam redonda no OBS](https://willianjusten.com.br/como-deixar-a-imagem-da-webcam-redonda-no-obs/)
+- [undefined](https://willianjusten.com.br/posts/como-ter-um-blog-ajuda-a-conseguir-oportunidades)
+- [undefined](https://willianjusten.com.br/posts/como-usar-e-se-comportar-melhor-em-chats)
+- [undefined](https://willianjusten.com.br/posts/criando-toda-a-estrutura-de-um-site-usando-o-strapi-cms)
+- [undefined](https://willianjusten.com.br/posts/como-configuro-meu-editor-e-desktop-para-gravar-codigo)
+- [undefined](https://willianjusten.com.br/posts/como-deixar-a-imagem-da-webcam-redonda-no-obs)
 <!-- BLOG:END -->
 
 ### 📺 Latest Videos on YouTube
