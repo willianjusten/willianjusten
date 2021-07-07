@@ -15,11 +15,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Gatsby e NextJS: Performance e Developer Experience](https://willianjusten.com.br/gatsby-e-nextjs-performance-e-developer-experience)
 - [Migrei meu blog do Gatsby para o NextJS](https://willianjusten.com.br/migrei-meu-blog-do-gatsby-para-o-nextjs)
 - [Como ter um Blog ajuda a conseguir melhores oportunidades](https://willianjusten.com.br/como-ter-um-blog-ajuda-a-conseguir-oportunidades)
 - [Como usar e se comportar melhor em chats](https://willianjusten.com.br/como-usar-e-se-comportar-melhor-em-chats)
 - [Criando toda a estrutura de um site usando o Strapi CMS](https://willianjusten.com.br/criando-toda-a-estrutura-de-um-site-usando-o-strapi-cms)
-- [Como configuro meu editor e desktop para gravar código](https://willianjusten.com.br/como-configuro-meu-editor-e-desktop-para-gravar-codigo)
 <!-- BLOG:END -->
 
 ### 📺 Latest Videos on YouTube
