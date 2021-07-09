@@ -25,11 +25,11 @@
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Dicas ao aplicar para uma vaga na área de Desenvolvimento](https://www.youtube.com/watch?v=njwAbZrO-LQ)
 - [GitHub Copilot - O que é? Como funciona? Testando na prática!](https://www.youtube.com/watch?v=EGiXsfyBST8)
 - [Windows 11 - Como instalar? O que mudou? Minhas primeiras impressões](https://www.youtube.com/watch?v=9OEyNgKwMzs)
 - [Novo Curso: Aprenda Testes End to End com Cypress na Prática](https://www.youtube.com/watch?v=ePXUbsbBjLY)
 - [React Avançado: Introdução a Testes E2E - Cypress](https://www.youtube.com/watch?v=Q65giR7gJ_Y)
-- [Bate papo sobre o React Avançado, carreira e mais!](https://www.youtube.com/watch?v=0xorZCicpIU)
 <!-- YOUTUBE:END -->
 
 ### 📷 Unsplash Stats
