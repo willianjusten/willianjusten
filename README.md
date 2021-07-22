@@ -1,18 +1,18 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Willian!
 
-⭐ I'm a [GitHub Star](https://stars.github.com/profiles/willianjusten/) <br>
-🏆 Microsoft MVP <br>
-💻 Software Engineer and Instructor at [Willian Justen Cursos](https://willianjusten.com.br/cursos) <br>
-🏡 Brazilian, Based in Petrópolis, RJ - but most of the time traveling around the world 🌎
+⭐ &nbsp; I'm a [GitHub Star](https://stars.github.com/profiles/willianjusten/) <br>
+🏆 &nbsp; Microsoft MVP <br>
+💻 &nbsp;Software Engineer and Instructor at [Willian Justen Cursos](https://willianjusten.com.br/cursos) <br>
+🏡 &nbsp; Brazilian, Based in Petrópolis, RJ - but most of the time traveling around the world 🌎
 
 ### You can find me on
 
-📺 [Youtube](https://www.youtube.com/WillianJustenCursos/?sub_confirmation=1) <br>
-🐦 [Twitter](https://twitter.com/Willian_justen) <br>
-📷 [Unsplash](https://unsplash.com/@willianjusten) <br>
-⚛️ [My site](https://willianjusten.com.br) <br>
+📺 &nbsp; [Youtube](https://www.youtube.com/WillianJustenCursos/?sub_confirmation=1) <br>
+🐦 &nbsp; [Twitter](https://twitter.com/Willian_justen) <br>
+📷 &nbsp; [Unsplash](https://unsplash.com/@willianjusten) <br>
+⚛️ &nbsp; [My site](https://willianjusten.com.br) <br>
 
-### 📕 Latest Blog Posts
+### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
 - [Gatsby e NextJS: Performance e Developer Experience](https://willianjusten.com.br/gatsby-e-nextjs-performance-e-developer-experience)
@@ -22,7 +22,7 @@
 - [Criando toda a estrutura de um site usando o Strapi CMS](https://willianjusten.com.br/criando-toda-a-estrutura-de-um-site-usando-o-strapi-cms)
 <!-- BLOG:END -->
 
-### 📺 Latest Videos on YouTube
+### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
 - [Algumas Dicas de CSS](https://www.youtube.com/watch?v=bOdrGg5oc3E)
@@ -32,7 +32,7 @@
 - [Novo Curso: Aprenda Testes End to End com Cypress na Prática](https://www.youtube.com/watch?v=ePXUbsbBjLY)
 <!-- YOUTUBE:END -->
 
-### 📷 Unsplash Stats
+### 📷 &nbsp;Unsplash Stats
 
 <!-- UNSPLASH-STATS:START -->
 | **Views**         | **Downloads**        |
