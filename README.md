@@ -25,11 +25,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Minhas impressões do Macbook Air M1 16Gb](https://www.youtube.com/watch?v=9Rp39orl1DM)
 - [Algumas Dicas de CSS](https://www.youtube.com/watch?v=bOdrGg5oc3E)
 - [Dicas ao aplicar para uma vaga na área de Desenvolvimento](https://www.youtube.com/watch?v=njwAbZrO-LQ)
 - [GitHub Copilot - O que é? Como funciona? Testando na prática!](https://www.youtube.com/watch?v=EGiXsfyBST8)
 - [Windows 11 - Como instalar? O que mudou? Minhas primeiras impressões](https://www.youtube.com/watch?v=9OEyNgKwMzs)
-- [Novo Curso: Aprenda Testes End to End com Cypress na Prática](https://www.youtube.com/watch?v=ePXUbsbBjLY)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
