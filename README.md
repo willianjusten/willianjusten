@@ -15,11 +15,11 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Configurando o Macbook M1 para Desenvolvimento Web](https://willianjusten.com.br/configurando-o-macbook-m1-para-desenvolvimento-web)
 - [Gatsby e NextJS: Performance e Developer Experience](https://willianjusten.com.br/gatsby-e-nextjs-performance-e-developer-experience)
 - [Migrei meu blog do Gatsby para o NextJS](https://willianjusten.com.br/migrei-meu-blog-do-gatsby-para-o-nextjs)
 - [Como ter um Blog ajuda a conseguir melhores oportunidades](https://willianjusten.com.br/como-ter-um-blog-ajuda-a-conseguir-oportunidades)
 - [Como usar e se comportar melhor em chats](https://willianjusten.com.br/como-usar-e-se-comportar-melhor-em-chats)
-- [Criando toda a estrutura de um site usando o Strapi CMS](https://willianjusten.com.br/criando-toda-a-estrutura-de-um-site-usando-o-strapi-cms)
 <!-- BLOG:END -->
 
 ### 📺 &nbsp;Latest Videos on YouTube
