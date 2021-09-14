@@ -15,11 +15,11 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Configurando 2 contas de Git no mesmo computador](https://willianjusten.com.br/configurando-2-contas-de-git-no-mesmo-computador)
 - [Configurando o Macbook M1 para Desenvolvimento Web](https://willianjusten.com.br/configurando-o-macbook-m1-para-desenvolvimento-web)
 - [Gatsby e NextJS: Performance e Developer Experience](https://willianjusten.com.br/gatsby-e-nextjs-performance-e-developer-experience)
 - [Migrei meu blog do Gatsby para o NextJS](https://willianjusten.com.br/migrei-meu-blog-do-gatsby-para-o-nextjs)
 - [Como ter um Blog ajuda a conseguir melhores oportunidades](https://willianjusten.com.br/como-ter-um-blog-ajuda-a-conseguir-oportunidades)
-- [Como usar e se comportar melhor em chats](https://willianjusten.com.br/como-usar-e-se-comportar-melhor-em-chats)
 <!-- BLOG:END -->
 
 ### 📺 &nbsp;Latest Videos on YouTube
