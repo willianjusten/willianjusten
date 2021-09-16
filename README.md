@@ -15,11 +15,11 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Como mostrar trechos de código num blog com NextJS](https://willianjusten.com.br/como-mostrar-trechos-de-codigo-num-blog-com-nextjs)
 - [Como configurar o Google Analytics no NextJS em 2021](https://willianjusten.com.br/como-configurar-o-google-analytics-no-nextjs-em-2021)
 - [Configurando 2 contas de Git no mesmo computador](https://willianjusten.com.br/configurando-2-contas-de-git-no-mesmo-computador)
 - [Configurando o Macbook M1 para Desenvolvimento Web](https://willianjusten.com.br/configurando-o-macbook-m1-para-desenvolvimento-web)
 - [Gatsby e NextJS: Performance e Developer Experience](https://willianjusten.com.br/gatsby-e-nextjs-performance-e-developer-experience)
-- [Migrei meu blog do Gatsby para o NextJS](https://willianjusten.com.br/migrei-meu-blog-do-gatsby-para-o-nextjs)
 <!-- BLOG:END -->
 
 ### 📺 &nbsp;Latest Videos on YouTube
