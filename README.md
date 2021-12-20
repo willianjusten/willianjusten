@@ -16,11 +16,11 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Criando o efeito da chuva do Matrix com JavaScript puro](https://willianjusten.com.br/criando-o-efeito-da-chuva-do-matrix-com-javascript-puro)
 - [Usando Netlify CMS com NextJS, Vercel e GitHub](https://willianjusten.com.br/usando-netlify-cms-com-nextjs-vercel-e-github)
 - [Usando o Preact no NextJS para mais performance](https://willianjusten.com.br/usando-o-preact-no-nextjs-para-mais-performance)
 - [Como mostrar trechos de código num blog com NextJS](https://willianjusten.com.br/como-mostrar-trechos-de-codigo-num-blog-com-nextjs)
 - [Como configurar o Google Analytics no NextJS em 2021](https://willianjusten.com.br/como-configurar-o-google-analytics-no-nextjs-em-2021)
-- [Configurando 2 contas de Git no mesmo computador](https://willianjusten.com.br/configurando-2-contas-de-git-no-mesmo-computador)
 <!-- BLOG:END -->
 
 ### 📺 &nbsp;Latest Videos on YouTube
