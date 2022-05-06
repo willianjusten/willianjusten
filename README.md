@@ -26,11 +26,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [Falar sobre salários na área dev VS prometer salários](https://www.youtube.com/watch?v=FaVz3ULk1N8)
-- [Minhas impressões do Macbook Air M1 16Gb](https://www.youtube.com/watch?v=9Rp39orl1DM)
-- [Algumas Dicas de CSS](https://www.youtube.com/watch?v=bOdrGg5oc3E)
-- [Dicas ao aplicar para uma vaga na área de Desenvolvimento](https://www.youtube.com/watch?v=njwAbZrO-LQ)
-- [GitHub Copilot - O que é? Como funciona? Testando na prática!](https://www.youtube.com/watch?v=EGiXsfyBST8)
+- [19. Estilizando svg css parte 1 - SVG do Início ao Avançado](https://www.youtube.com/watch?v=yEqMvgNYAVQ)
+- [09. Usando como background - SVG do Início ao Avançado](https://www.youtube.com/watch?v=fZE9dSF0N3Y)
+- [11. Usando como data uri -  SVG do Início ao Avançado](https://www.youtube.com/watch?v=E4nWjhwBEOw)
+- [05. Quando usar? - SVG do Início ao Avançado](https://www.youtube.com/watch?v=IS52A-CgmCw)
+- [13. Plano Cartesiano  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=aNiRUcY4Z20)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
