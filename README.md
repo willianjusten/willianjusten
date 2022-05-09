@@ -26,11 +26,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [24. Logo responsivo fluido  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=zq2rwGqXtSw)
-- [25. Logo responsivo adaptativo  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=j8i1CU3oRDw)
-- [23. Colorindo svg -  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=tpg3pf3C9Cs)
-- [22. Fill stroke  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=o_STH_mH-Is)
-- [21. Peso propriedades - SVG do Início ao Avançado](https://www.youtube.com/watch?v=M8qrd3ViGzI)
+- [29. Criando loader visual - SVG do Início ao Avançado](https://www.youtube.com/watch?v=rkk7yPl-Ggo)
+- [26. Fixando uso symbol - SVG do Início ao Avançado](https://www.youtube.com/watch?v=NR00mBIQyek)
+- [30. Criando loader animação - SVG do Início ao Avançado](https://www.youtube.com/watch?v=M-FlNzVGqTU)
+- [27. Usando icomoon - SVG do Início ao Avançado](https://www.youtube.com/watch?v=d8C94FkKnEY)
+- [28. Criando sprites com gulp - SVG do Início ao Avançado](https://www.youtube.com/watch?v=X09NxQsNWuI)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
