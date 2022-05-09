@@ -26,11 +26,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [29. Criando loader visual - SVG do Início ao Avançado](https://www.youtube.com/watch?v=rkk7yPl-Ggo)
-- [26. Fixando uso symbol - SVG do Início ao Avançado](https://www.youtube.com/watch?v=NR00mBIQyek)
-- [30. Criando loader animação - SVG do Início ao Avançado](https://www.youtube.com/watch?v=M-FlNzVGqTU)
-- [27. Usando icomoon - SVG do Início ao Avançado](https://www.youtube.com/watch?v=d8C94FkKnEY)
-- [28. Criando sprites com gulp - SVG do Início ao Avançado](https://www.youtube.com/watch?v=X09NxQsNWuI)
+- [34. Smil motion - SVG do Início ao Avançado](https://www.youtube.com/watch?v=VgbyFKCUJqw)
+- [33. Smil morph - SVG do Início ao Avançado](https://www.youtube.com/watch?v=4-a6IacrJ3o)
+- [32. Criando animação simples com Smil  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=XfQ5XFvVhkk)
+- [35. Manipulando SVG com JS - SVG do Início ao Avançado](https://www.youtube.com/watch?v=MrnEhwOVR9s)
+- [31. O que é Smil? - SVG do Início ao Avançado](https://www.youtube.com/watch?v=oxyFEnbGNO4)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
