@@ -26,11 +26,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [19. Estilizando svg css parte 1 - SVG do Início ao Avançado](https://www.youtube.com/watch?v=yEqMvgNYAVQ)
-- [09. Usando como background - SVG do Início ao Avançado](https://www.youtube.com/watch?v=fZE9dSF0N3Y)
-- [11. Usando como data uri -  SVG do Início ao Avançado](https://www.youtube.com/watch?v=E4nWjhwBEOw)
-- [05. Quando usar? - SVG do Início ao Avançado](https://www.youtube.com/watch?v=IS52A-CgmCw)
-- [13. Plano Cartesiano  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=aNiRUcY4Z20)
+- [24. Logo responsivo fluido  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=zq2rwGqXtSw)
+- [25. Logo responsivo adaptativo  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=j8i1CU3oRDw)
+- [23. Colorindo svg -  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=tpg3pf3C9Cs)
+- [22. Fill stroke  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=o_STH_mH-Is)
+- [21. Peso propriedades - SVG do Início ao Avançado](https://www.youtube.com/watch?v=M8qrd3ViGzI)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
