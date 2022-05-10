@@ -26,11 +26,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [40. Filtros - SVG do Início ao Avançado](https://www.youtube.com/watch?v=oLsc9CDa7y0)
-- [39. Criando animação de desenhar no scroll  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=A9t5Q4L_x94)
-- [37. Criando loader com animação no Stroke  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=gKAABuQxNos)
-- [38. Criando animação de desenhar com SVG  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=pzWmpdQwNFY)
-- [36. Bibliotecas JS - SVG do Início ao Avançado](https://www.youtube.com/watch?v=nLk23-9NuDc)
+- [45. Agradecimentos - SVG do Início ao Avançado](https://www.youtube.com/watch?v=OiIG7fOQ-J4)
+- [44. Ferramentas para otimizar performance  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=Q51nqQ8HWz4)
+- [41. Filtros parte 2](https://www.youtube.com/watch?v=pYDlXeRhb9c)
+- [42. Acessibilidade - SVG do Início ao Avançado](https://www.youtube.com/watch?v=Qp6We0NDkc8)
+- [43. Dicas no Illustrator  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=dEeHVAJ3ptw)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
