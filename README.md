@@ -26,11 +26,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [34. Smil motion - SVG do Início ao Avançado](https://www.youtube.com/watch?v=VgbyFKCUJqw)
-- [33. Smil morph - SVG do Início ao Avançado](https://www.youtube.com/watch?v=4-a6IacrJ3o)
-- [32. Criando animação simples com Smil  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=XfQ5XFvVhkk)
-- [35. Manipulando SVG com JS - SVG do Início ao Avançado](https://www.youtube.com/watch?v=MrnEhwOVR9s)
-- [31. O que é Smil? - SVG do Início ao Avançado](https://www.youtube.com/watch?v=oxyFEnbGNO4)
+- [40. Filtros - SVG do Início ao Avançado](https://www.youtube.com/watch?v=oLsc9CDa7y0)
+- [39. Criando animação de desenhar no scroll  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=A9t5Q4L_x94)
+- [37. Criando loader com animação no Stroke  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=gKAABuQxNos)
+- [38. Criando animação de desenhar com SVG  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=pzWmpdQwNFY)
+- [36. Bibliotecas JS - SVG do Início ao Avançado](https://www.youtube.com/watch?v=nLk23-9NuDc)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
