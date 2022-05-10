@@ -28,7 +28,7 @@
 <!-- YOUTUBE:START -->
 - [45. Agradecimentos - SVG do Início ao Avançado](https://www.youtube.com/watch?v=OiIG7fOQ-J4)
 - [44. Ferramentas para otimizar performance  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=Q51nqQ8HWz4)
-- [41. Filtros parte 2](https://www.youtube.com/watch?v=pYDlXeRhb9c)
+- [41. Filtros parte 2 - SVG do Início ao Avançado](https://www.youtube.com/watch?v=pYDlXeRhb9c)
 - [42. Acessibilidade - SVG do Início ao Avançado](https://www.youtube.com/watch?v=Qp6We0NDkc8)
 - [43. Dicas no Illustrator  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=dEeHVAJ3ptw)
 <!-- YOUTUBE:END -->
