@@ -26,11 +26,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [05. Trabalhando com branches - Git e Github na Vida Real](https://www.youtube.com/watch?v=1Q5IJRpfFgA)
-- [04. Fazendo mudanças - usando diff - Git e Github na Vida Real](https://www.youtube.com/watch?v=mYsjDCTtpso)
-- [03. Inicializando Repositório- Git e Github na Vida Real](https://www.youtube.com/watch?v=H07viJFMt_4)
-- [02. Dinâmica do Curso - Git e Github na Vida Real](https://www.youtube.com/watch?v=6iGm1xuVts8)
-- [01. Introdução - Git e Github na Vida Real](https://www.youtube.com/watch?v=_Why5uCCrXc)
+- [42. Teoria do Gitflow - Git e Github na Vida Real](https://www.youtube.com/watch?v=C8LINLgnFok)
+- [37. Sobre Workflows de trabalho - Git e Github na Vida Real](https://www.youtube.com/watch?v=YtTQwbJ4mDw)
+- [19. Resolvendo conflitos simples - Git e Github na Vida Real](https://www.youtube.com/watch?v=4CaOND_77h8)
+- [26. Usando o reflog - Git e Github na Vida Real](https://www.youtube.com/watch?v=Vww0RKQL4R8)
+- [11. Usando git blame - Git e Github na Vida Real](https://www.youtube.com/watch?v=DGixOlHQUE8)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
