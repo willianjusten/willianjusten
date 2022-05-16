@@ -26,11 +26,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [02. Dinâmica do Curso - Git e Github na Vida Real](https://www.youtube.com/watch?v=6iGm1xuVts8)
+- [01. Introdução - Git e Github na Vida Real](https://www.youtube.com/watch?v=_Why5uCCrXc)
 - [45. Agradecimentos - SVG do Início ao Avançado](https://www.youtube.com/watch?v=OiIG7fOQ-J4)
 - [44. Ferramentas para otimizar performance  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=Q51nqQ8HWz4)
 - [41. Filtros parte 2 - SVG do Início ao Avançado](https://www.youtube.com/watch?v=pYDlXeRhb9c)
-- [42. Acessibilidade - SVG do Início ao Avançado](https://www.youtube.com/watch?v=Qp6We0NDkc8)
-- [43. Dicas no Illustrator  - SVG do Início ao Avançado](https://www.youtube.com/watch?v=dEeHVAJ3ptw)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
