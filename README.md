@@ -26,11 +26,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [42. Teoria do Gitflow - Git e Github na Vida Real](https://www.youtube.com/watch?v=C8LINLgnFok)
-- [37. Sobre Workflows de trabalho - Git e Github na Vida Real](https://www.youtube.com/watch?v=YtTQwbJ4mDw)
-- [19. Resolvendo conflitos simples - Git e Github na Vida Real](https://www.youtube.com/watch?v=4CaOND_77h8)
-- [26. Usando o reflog - Git e Github na Vida Real](https://www.youtube.com/watch?v=Vww0RKQL4R8)
-- [11. Usando git blame - Git e Github na Vida Real](https://www.youtube.com/watch?v=DGixOlHQUE8)
+- [08. Template Literal - concatenando textos/variáveis  - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=teuIneHYTCs)
+- [22. Usando o spread nos argumentos da função  - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=RV-IWn805jU)
+- [27. Herança Prototipal &lpar;Prototypes&rpar; - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=cIAwSEPWmHI)
+- [16. Método array.find e array.findIndex - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=0YBtwRBpl-A)
+- [45. Método de object.values - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=QVt_U4WkjF0)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
