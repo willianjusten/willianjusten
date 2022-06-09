@@ -3,7 +3,7 @@
 ⭐ &nbsp; I'm a [GitHub Star](https://stars.github.com/profiles/willianjusten/) <br>
 🏆 &nbsp; Top Teacher 2021 from GitHub Stars <br>
 🏆 &nbsp; Microsoft MVP <br>
-💻 &nbsp;Software Engineer and Instructor at [Willian Justen Cursos](https://willianjusten.com.br/cursos) <br>
+💻 &nbsp;Software Engineer at [Appcues](https://appcues.com) and Instructor at [Willian Justen Cursos](https://willianjusten.com.br/cursos) <br>
 🏡 &nbsp; Brazilian, Based in Petrópolis, RJ - but most of the time traveling around the world 🌎
 
 ### You can find me on
