@@ -25,11 +25,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [08. Template Literal - concatenando textos/variáveis  - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=teuIneHYTCs)
-- [22. Usando o spread nos argumentos da função  - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=RV-IWn805jU)
-- [27. Herança Prototipal &lpar;Prototypes&rpar; - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=cIAwSEPWmHI)
-- [16. Método array.find e array.findIndex - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=0YBtwRBpl-A)
-- [45. Método de object.values - Mini-curso JS Moderno &lpar;ES6&rpar;](https://www.youtube.com/watch?v=QVt_U4WkjF0)
+- [15. Usando FindRelatedTests para o Hook - Aprenda NextJS, GraphQL na prática!](https://www.youtube.com/watch?v=-ZDecbMeNNE)
+- [47. Definindo Background no Leaflet - Aprenda NextJS, GraphQL na prática!](https://www.youtube.com/watch?v=DBFu7fTpQz4)
+- [32. Método de GetStaticPaths e Fallback - Aprenda NextJS, GraphQL na prática!](https://www.youtube.com/watch?v=oxFFfTnPijs)
+- [49. Utilizando o MaxBounds no Leaflet - Aprenda NextJS, GraphQL na prática!](https://www.youtube.com/watch?v=4iQUUKNM5HY)
+- [21. Inicializando o Projeto - Aprenda NextJS, GraphQL na prática!](https://www.youtube.com/watch?v=MTPnFHJUjAU)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
