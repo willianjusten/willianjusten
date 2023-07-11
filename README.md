@@ -15,11 +15,11 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Feito é melhor que perfeito](https://willianjusten.com.br/feito-e-melhor-que-perfeito)
 - [Valorize suas conquistas](https://willianjusten.com.br/valorize-suas-conquistas)
 - [Meu ano de 2021](https://willianjusten.com.br/meu-ano-de-2021)
 - [Criando o efeito da chuva do Matrix com JavaScript puro](https://willianjusten.com.br/criando-o-efeito-da-chuva-do-matrix-com-javascript-puro)
 - [Usando Netlify CMS com NextJS, Vercel e GitHub](https://willianjusten.com.br/usando-netlify-cms-com-nextjs-vercel-e-github)
-- [Usando o Preact no NextJS para mais performance](https://willianjusten.com.br/usando-o-preact-no-nextjs-para-mais-performance)
 <!-- BLOG:END -->
 
 ### 📺 &nbsp;Latest Videos on YouTube
