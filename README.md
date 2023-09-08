@@ -15,11 +15,11 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Burnout dura mais que você imagina!](https://willianjusten.com.br/burnout-e-o-tempo)
 - [Mude!](https://willianjusten.com.br/mude)
 - [Está tudo bem não fazer nada](https://willianjusten.com.br/esta-tudo-bem-nao-fazer-nada)
 - [Feito é melhor que perfeito](https://willianjusten.com.br/feito-e-melhor-que-perfeito)
 - [Valorize suas conquistas](https://willianjusten.com.br/valorize-suas-conquistas)
-- [Meu ano de 2021](https://willianjusten.com.br/meu-ano-de-2021)
 <!-- BLOG:END -->
 
 ### 📺 &nbsp;Latest Videos on YouTube
