@@ -2,7 +2,7 @@
 
 ⭐ &nbsp; I'm alumni of [GitHub Stars](https://stars.github.com/alumni/) <br>
 🏆 &nbsp; Top Teacher 2021 from GitHub Stars <br>
-💻 &nbsp;Staff Engineer at [Appcues](https://appcues.com) and Instructor at [Willian Justen Cursos](https://willianjusten.com.br/cursos) <br>
+💻 &nbsp; Instructor at [Willian Justen Cursos](https://willianjusten.com.br/cursos) <br>
 🏡 &nbsp; Brazilian, Based in São Paulo, SP - but most of the time traveling around the world 🌎
 
 ### You can find me on
