@@ -25,11 +25,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Estou de volta e novo curso em breve!](https://www.youtube.com/watch?v=xrcicnrsCno)
 - [Andando em Osaka a noite - 4K ASMR](https://www.youtube.com/watch?v=wkp4hs_i2t4)
 - [15. Usando FindRelatedTests para o Hook - Aprenda NextJS, GraphQL na prática!](https://www.youtube.com/watch?v=-ZDecbMeNNE)
 - [23. Criando Componente de Mapa com Leaflet - Aprenda NextJS, GraphQL na prática!](https://www.youtube.com/watch?v=3fTbYa8qYDY)
 - [49. Utilizando o MaxBounds no Leaflet - Aprenda NextJS, GraphQL na prática!](https://www.youtube.com/watch?v=4iQUUKNM5HY)
-- [47. Definindo Background no Leaflet - Aprenda NextJS, GraphQL na prática!](https://www.youtube.com/watch?v=DBFu7fTpQz4)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
