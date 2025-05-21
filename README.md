@@ -25,11 +25,11 @@
 ### 📺 &nbsp;Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Como utilizar um controle na Web com Gamepad API](https://www.youtube.com/watch?v=HmxB-0NAQpM)
 - [Saiu o curso de Games in JS + Cupom lançamento! #javascript #gamedev #reactjs #canvas #html](https://www.youtube.com/watch?v=5wGvOKN_Vr4)
 - [Saiu o curso de Games in JS + Cupom lançamento!](https://www.youtube.com/watch?v=PGpyMM4LjEA)
 - [Estou de volta e novo curso em breve!](https://www.youtube.com/watch?v=xrcicnrsCno)
 - [Andando em Osaka a noite - 4K ASMR](https://www.youtube.com/watch?v=wkp4hs_i2t4)
-- [15. Usando FindRelatedTests para o Hook - Aprenda NextJS, GraphQL na prática!](https://www.youtube.com/watch?v=-ZDecbMeNNE)
 <!-- YOUTUBE:END -->
 
 ### 📷 &nbsp;Unsplash Stats
