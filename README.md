@@ -12,30 +12,10 @@
 📷 &nbsp; [Unsplash](https://unsplash.com/@willianjusten) <br>
 ⚛️ &nbsp; [My site](https://willianjusten.com.br) <br>
 
-### 📕 &nbsp;Latest Blog Posts
-
-<!-- BLOG:START -->
-- [Dez anos de blog e mais alguns de carreira](https://willianjusten.com.br/dez-anos-de-blog)
-- [Meu ano de 2024](https://willianjusten.com.br/meu-ano-de-2024)
-- [Meu ano de 2023](https://willianjusten.com.br/meu-ano-de-2023)
-- [Burnout dura mais que você imagina!](https://willianjusten.com.br/burnout-e-o-tempo)
-- [Mude!](https://willianjusten.com.br/mude)
-<!-- BLOG:END -->
-
-### 📺 &nbsp;Latest Videos on YouTube
-
-<!-- YOUTUBE:START -->
-- [Como utilizar um controle na Web com Gamepad API](https://www.youtube.com/watch?v=HmxB-0NAQpM)
-- [Saiu o curso de Games in JS + Cupom lançamento! #javascript #gamedev #reactjs #canvas #html](https://www.youtube.com/shorts/5wGvOKN_Vr4)
-- [Saiu o curso de Games in JS + Cupom lançamento!](https://www.youtube.com/watch?v=PGpyMM4LjEA)
-- [Estou de volta e novo curso em breve!](https://www.youtube.com/watch?v=xrcicnrsCno)
-- [Andando em Osaka a noite - 4K ASMR](https://www.youtube.com/watch?v=wkp4hs_i2t4)
-<!-- YOUTUBE:END -->
-
 ### 📷 &nbsp;Unsplash Stats
 
 <!-- UNSPLASH-STATS:START -->
 | **Views**         | **Downloads**        |
 |:-----------------:|:--------------------:|
-|1,284,616,426   | 9,158,315 |
+|1,284,531,192   | 9,157,661 |
 <!-- UNSPLASH-STATS:END -->
