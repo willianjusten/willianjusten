@@ -11,11 +11,3 @@
 🐦 &nbsp; [Twitter](https://twitter.com/Willian_justen) <br>
 📷 &nbsp; [Unsplash](https://unsplash.com/@willianjusten) <br>
 ⚛️ &nbsp; [My site](https://willianjusten.com.br) <br>
-
-### 📷 &nbsp;Unsplash Stats
-
-<!-- UNSPLASH-STATS:START -->
-| **Views**         | **Downloads**        |
-|:-----------------:|:--------------------:|
-|1,287,412,416   | 9,178,413 |
-<!-- UNSPLASH-STATS:END -->
